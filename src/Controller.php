@@ -12,7 +12,7 @@ use \Throwable;
  * Generic controller which handles things like error logging, autoloading, etc.
  */
 class Controller {
-	const DEVEL = true;
+	const DEVEL = false;
 
 	/**
 	 * Autoloads classes, will be registered with spl_autoload_register
