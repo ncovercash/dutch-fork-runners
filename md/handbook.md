@@ -1,7 +1,7 @@
 ---
 #### Information/Policies for our teams.
 
-**Website:** dutchforkrunners.com
+**Website:** https://dutchforkrunners.com/
 
 **Email:** dutchforkrunners@gmail.com
 
@@ -29,7 +29,7 @@ Carbonated and sugary drinks, candy, sugary snacks and cereal, white bread and w
 
 ##### Suggestions:
 
- - Nutritional shakes, etc, should NOT replace full, healthy meals.  The best nutrition is regular, complete, well-balanced meals.  Just like in practice or competitions, taking a shortcut is cheating.  Don't cheat yourself! 
+ - Nutritional shakes, etc, should NOT replace full, healthy meals.  The best nutrition is regular, complete, well-balanced meals.  Just like in practice or competitions, taking a shortcut is cheating.  Don't cheat yourself!
  - Water - hydrate well all day everyday, not just before and after running.
  - Wheat or whole grain breads, cereals, bagels, pasta.
  - Brown rice (Uncle Ben’s Whole Grain Ready Rice).
@@ -45,15 +45,15 @@ Carbonated and sugary drinks, candy, sugary snacks and cereal, white bread and w
 
 A great deal has been written about carb loading.  Here are our thoughts. A steady, healthy, appropriate diet takes care of everything.  The night before a race is not a good time to change your diet or your routine, or to try and load up to be ready for the next day.  A normal healthy routine meal is best.  If you want to have a "special" carb dinner with whole grain or wheat pasta, then 2 nights before a race is better.  During our season, you will need carbs all the time for energy, so an unusual amount is not necessary.
 
-Ideally, runners should replenish after a practice or race within 45 minutes of the activity. 
+Ideally, runners should replenish after a practice or race within 45 minutes of the activity.
 
-Athletes should also be consuming healthy calories all during the day, preferably every couple of hours - which means bring healthy snack bags to school.  Eat a good breakfast( a key component of healthy eating), have a snack mid morning, eat a healthy lunch, and have a snack 1-2 hours before practice.  Have a snack after practice if dinner is going to be later in the evening.  You may find that you want a healthy snack before bed as well. Always, always, always bring healthy snacks to competitions. 
+Athletes should also be consuming healthy calories all during the day, preferably every couple of hours - which means bring healthy snack bags to school.  Eat a good breakfast( a key component of healthy eating), have a snack mid morning, eat a healthy lunch, and have a snack 1-2 hours before practice.  Have a snack after practice if dinner is going to be later in the evening.  You may find that you want a healthy snack before bed as well. Always, always, always bring healthy snacks to competitions.
 
 ##### Before a race:
 
 **The night before a morning race** have a dinner that's high in carbohydrates and moderate in fat and protein. Fat and protein will slow the digestion of the meal and allow your glycogen stores to fill up throughout the night. Choose complex carbohydrates such as whole-wheat pasta, brown or wild rice, lentils and beans, and whole fruits and vegetables. Avoid fried or greasy foods and fast foods. If you have a morning race and can’t eat enough calories 3-4 hours before, be sure to eat a complex carb snack before bed. Don’t overdo the carbs! Water retention is often associated with carbohydrate loading. This may cause stiffness in muscles and sluggishness early during race.
 
-We have a 10 PM curfew the night before a race.  
+We have a 10 PM curfew the night before a race.
 
 **A pre-race meal** of 700-800 calories (minimum of 500) should be eaten 3-4 hours before race time. A complex carbohydrate meal is best.
 
@@ -69,7 +69,7 @@ Avoid protein/amino acid powders and supplements. These can cause dehydration an
 
 ##### Post Race:
 
-Eat post-exercise meals as soon as possible, preferably in the first 20-30 minutes. You need to replenish glycogen stores and repair muscles. In addition to replacing the fluids and electrolytes lost through sweat, focus on consuming foods high in carbohydrates and moderate in protein. Chocolate milk is a great example of a recovery food because it has a 3:1 carbohydrate- to-protein ratio and is a good source of both.  Other examples include a turkey sandwich, yogurt, PBJ sandwich. 
+Eat post-exercise meals as soon as possible, preferably in the first 20-30 minutes. You need to replenish glycogen stores and repair muscles. In addition to replacing the fluids and electrolytes lost through sweat, focus on consuming foods high in carbohydrates and moderate in protein. Chocolate milk is a great example of a recovery food because it has a 3:1 carbohydrate- to-protein ratio and is a good source of both.  Other examples include a turkey sandwich, yogurt, PBJ sandwich.
 
 ##### Snack Packs to keep on hand:
 
@@ -84,7 +84,7 @@ Eat post-exercise meals as soon as possible, preferably in the first 20-30 minut
  - Bagel and cream cheese or peanut butter
  - Whole-wheat pretzels
  - Fig Newtons
- - Grapes, red is preferable 
+ - Grapes, red is preferable
 
 ---
 
@@ -102,7 +102,7 @@ It is recommended that athletes not bring expensive items to meets in case of th
 
 #### Away meets:
 
-We will do our best to always provide directions to away meets, usually having the information available with our schedule on http://dutchforkrunners.com/Calendar/ or via a link at the top that says "Our next meet".  Some groups charge for parking, so please be ready just in case.  Family members are not allowed to ride on the bus to competitions.  Athletes on injured reserve, or not able to run should not ride the bus. Athletes are expected to stay at a competition until the coach releases the team at the end.  
+We will do our best to always provide directions to away meets, usually having the information available with our schedule on http://dutchforkrunners.com/Calendar/ or via a link at the top that says "Our next meet".  Some groups charge for parking, so please be ready just in case.  Family members are not allowed to ride on the bus to competitions.  Athletes on injured reserve, or not able to run should not ride the bus. Athletes are expected to stay at a competition until the coach releases the team at the end.
 
 ---
 
@@ -110,55 +110,55 @@ We will do our best to always provide directions to away meets, usually having t
 
 During travel and at competitions, athletes should always have on something in school colors, or with our logo.  We should always be proud of our school and teams.  We want all athletes to wear either our team shirt, or something else with Cross Country represented on it on meet days, or the last school day before a meet. All athletes must have on a shirt while in the competition area at meets.
 
-Athletes will be issued uniforms as needed.  Every effort should be made to take care of these uniforms, as they are always the property of Dutch Fork High.  When washing, please wash in cold water, and DO NOT DRY them - just hang them up - and they will dry quickly.  No part of the uniform should be worn to school, or used to practice in - they are for Cross Country competitions and special events only as designated by the coach or captains.  Athletes should return the uniforms no later than two days after their last competition, clean, dry, and in a zip-loc bag with their complete name on it.  Athletes should give the uniform to the designated Coach only, and should not leave them in a classroom, the front office, any other Coach, or another athlete.  The charge for a missing or damaged uniform can be up to $100, and may include Saturday detention from the school for not turning it in.  Please take care of the uniform, and return it promptly. 
+Athletes will be issued uniforms as needed.  Every effort should be made to take care of these uniforms, as they are always the property of Dutch Fork High.  When washing, please wash in cold water, and DO NOT DRY them - just hang them up - and they will dry quickly.  No part of the uniform should be worn to school, or used to practice in - they are for Cross Country competitions and special events only as designated by the coach or captains.  Athletes should return the uniforms no later than two days after their last competition, clean, dry, and in a zip-loc bag with their complete name on it.  Athletes should give the uniform to the designated Coach only, and should not leave them in a classroom, the front office, any other Coach, or another athlete.  The charge for a missing or damaged uniform can be up to $100, and may include Saturday detention from the school for not turning it in.  Please take care of the uniform, and return it promptly.
 
 ---
 
 #### Attendance:
 
-Athletes must be at practice and competitions, on time, the full time, every time.  Please try to schedule other appointments outside of practice time.  Arriving late, and leaving early is dangerous to the athlete ( as they miss the proper warm-ups, and appropriate cool downs and stretching which are vital components to safe and effective training).  Athletes are allowed 3 unexecused absences from practice and/or competitions.  Communication with the Coach is the best policy.  Excused absences include illness requiring a doctor's visit ( bring a note to the next practice ), death or serious illness/accident in immediate family, or Academic Assistance ( bring a signed pass from the teacher showing start and end time of assistance).  Be careful with Academic Assistance - if the assistance is to make up a test or missed work, please try to schedule that assistance some other time, or utilizing our ALEC ( Academic Learning and Enrichment Center ), which allows early morning test/quiz makeups.  Unexcused tardies and leaving early counts at least 1/3 of an absence.  Missing more than half of a practice counts as a full absence.  Athletes are expected to remain at all meets and events until the Coach says we are finished. Athletes must be prepared for practice, including shoes, socks, watch, and water.  Coming to practice unprepared may count as an unexcused absence, and the athlete may be asked to leave the stadium area if not prepared.  Attendance at the last 2 practices before a meet is required to participate in that meet.  If athletes are not present at school, they are not allowed at practice, and the absence is excused. Athletes are expected to be on time to competitions and stay until the coach releases the team at the end of the competition.  If an athlete is going to miss a competition that is on our calendar, more than one week's notice, in writing, is needed for the absence to be considered an excused absence.  
+Athletes must be at practice and competitions, on time, the full time, every time.  Please try to schedule other appointments outside of practice time.  Arriving late, and leaving early is dangerous to the athlete ( as they miss the proper warm-ups, and appropriate cool downs and stretching which are vital components to safe and effective training).  Athletes are allowed 3 unexecused absences from practice and/or competitions.  Communication with the Coach is the best policy.  Excused absences include illness requiring a doctor's visit ( bring a note to the next practice ), death or serious illness/accident in immediate family, or Academic Assistance ( bring a signed pass from the teacher showing start and end time of assistance).  Be careful with Academic Assistance - if the assistance is to make up a test or missed work, please try to schedule that assistance some other time, or utilizing our ALEC ( Academic Learning and Enrichment Center ), which allows early morning test/quiz makeups.  Unexcused tardies and leaving early counts at least 1/3 of an absence.  Missing more than half of a practice counts as a full absence.  Athletes are expected to remain at all meets and events until the Coach says we are finished. Athletes must be prepared for practice, including shoes, socks, watch, and water.  Coming to practice unprepared may count as an unexcused absence, and the athlete may be asked to leave the stadium area if not prepared.  Attendance at the last 2 practices before a meet is required to participate in that meet.  If athletes are not present at school, they are not allowed at practice, and the absence is excused. Athletes are expected to be on time to competitions and stay until the coach releases the team at the end of the competition.  If an athlete is going to miss a competition that is on our calendar, more than one week's notice, in writing, is needed for the absence to be considered an excused absence.
 
 ---
 
 #### Season restrictions:
 
-During our season, athletes should not participate in other races such as the Mud Run, Dam Run, etc.  We are working hard towards Championships and a strong state finish.  These other activities add to body stress, affect recovery times, and increase the chance of injury.  Working together as a team is a 24 hour responsibility which includes the weekends.  Over training is dangerous and other outside events often cause problems.  
+During our season, athletes should not participate in other races such as the Mud Run, Dam Run, etc.  We are working hard towards Championships and a strong state finish.  These other activities add to body stress, affect recovery times, and increase the chance of injury.  Working together as a team is a 24 hour responsibility which includes the weekends.  Over training is dangerous and other outside events often cause problems.
 
 ---
 
 #### Picking up athletes:
 
-Athletes should be off school property no later than 15 minutes after practice ends.  Pick up will always be in the parking lot in front of the stadium or in the bus loop during inclement weather.  Athletes should not be picked up in front of the school, and should not go back into the building except for specific school related functions. Athletes should never be alone at school after school.  If an athlete finds themselves unsupervised, they should move to a supervised area. 
+Athletes should be off school property no later than 15 minutes after practice ends.  Pick up will always be in the parking lot in front of the stadium or in the bus loop during inclement weather.  Athletes should not be picked up in front of the school, and should not go back into the building except for specific school related functions. Athletes should never be alone at school after school.  If an athlete finds themselves unsupervised, they should move to a supervised area.
 
 ---
 
 #### Riding with others:
 
-Athletes may only ride home with others if specific signed and dated permission by parents/guardians of athletes involved is given to the Coach.  Athletes may not drive themselves to or from meets - they must ride with a parent/guardian.  If riding with a parent/guardian, athletes are expected to remain until the meet is over and we start to board the bus.  The athlete must confirm with the Coach that their parents are on site and they are leaving. 
+Athletes may only ride home with others if specific signed and dated permission by parents/guardians of athletes involved is given to the Coach.  Athletes may not drive themselves to or from meets - they must ride with a parent/guardian.  If riding with a parent/guardian, athletes are expected to remain until the meet is over and we start to board the bus.  The athlete must confirm with the Coach that their parents are on site and they are leaving.
 
 ---
 
 #### Inclement weather:
 
-We will have practice as scheduled, every day, unless school is cancelled.  It is recommended that athletes always be prepared for inclement weather, by having a large trash bag to protect their belongings, a large zip-loc bag for cell phones, keys, and wallets, and appropriate clothing for during and after practice.  We may practice inside the building, so athlete pick up will be in the bus loop. 
+We will have practice as scheduled, every day, unless school is cancelled.  It is recommended that athletes always be prepared for inclement weather, by having a large trash bag to protect their belongings, a large zip-loc bag for cell phones, keys, and wallets, and appropriate clothing for during and after practice.  We may practice inside the building, so athlete pick up will be in the bus loop.
 
 ---
 
 #### Academics:
 
-Academic success is a primary focus of all activities at Dutch Fork. Academics come first.  All athletes are expected to perform in the classroom to the best of their ability.  We encourage our athletes to take advantage of Academic Assistance provided by their individual teachers, and our ALEC program, which offers tutoring before, during, and after school, with an appointment.  We do want our athletes at practice, but if no scheduling alternative exists, Academics come first. Coaches reserve the right to ask any athlete to not participate until certain grades are acceptable.  
+Academic success is a primary focus of all activities at Dutch Fork. Academics come first.  All athletes are expected to perform in the classroom to the best of their ability.  We encourage our athletes to take advantage of Academic Assistance provided by their individual teachers, and our ALEC program, which offers tutoring before, during, and after school, with an appointment.  We do want our athletes at practice, but if no scheduling alternative exists, Academics come first. Coaches reserve the right to ask any athlete to not participate until certain grades are acceptable.
 
 ---
 
 #### Cell phones and other electronics:
 
-Cell phone use at practice should only be to confirm a ride home.  Cell phones are not to be with the athletes on the practice area, warm up area, or stretching area.  Use of any other electronics (iPods, etc) at meets or practices during any exercise(s) or on the practice or competition area is prohibited due to safety concerns. Violations may result in confiscation of the cell phone or device per school policy, removal from the event, or removal from the team. 
+Cell phone use at practice should only be to confirm a ride home.  Cell phones are not to be with the athletes on the practice area, warm up area, or stretching area.  Use of any other electronics (iPods, etc) at meets or practices during any exercise(s) or on the practice or competition area is prohibited due to safety concerns. Violations may result in confiscation of the cell phone or device per school policy, removal from the event, or removal from the team.
 
 ---
 
 #### Injuries:
 
-We make every effort to focus on the safety and long-term well being of the athlete.  We ask that athletes give the same effort and focus when involved with other activities and sports.  During practice and at meets, it is always the athlete's decision whether they should participate.  They are their own best doctors.  If an athlete is injured, they should communicate with the Coach right away, and should see our Athletic Trainer as soon as possible.  Missing practice is only excused if our Athletic Trainer or a doctor says the athlete should not participate.  We always want our athletes doing their best, but never want them to push through injuries.  Good, common sense, should always take precedence. If an athlete is unable to practice due to injury or illness, they should not attend practice. 
+We make every effort to focus on the safety and long-term well being of the athlete.  We ask that athletes give the same effort and focus when involved with other activities and sports.  During practice and at meets, it is always the athlete's decision whether they should participate.  They are their own best doctors.  If an athlete is injured, they should communicate with the Coach right away, and should see our Athletic Trainer as soon as possible.  Missing practice is only excused if our Athletic Trainer or a doctor says the athlete should not participate.  We always want our athletes doing their best, but never want them to push through injuries.  Good, common sense, should always take precedence. If an athlete is unable to practice due to injury or illness, they should not attend practice.
 
 ---
 
@@ -193,7 +193,7 @@ Because we do not have a C team, athletes must meet some minimum standards to be
 
 #### Communication:
 
-Encourage your athlete to pay attention to team announcements and relay that information to you.  Important information is given at practices and its it the athlete's responsibility to keep up to date.  Athletes should check with their captains first for any questions.  Please keep in touch with the Coach.  Email is best.  I may not be able to return a phone call quickly, but usually can reply to an email.  Our primary form of communication is email and our website ([dutchforkrunners.com](http://dutchforkrunners.com)) Please make sure you subscribe to our email list, follow us on Facebook and Twitter, and sign up for our emergency text alerts.   
+Encourage your athlete to pay attention to team announcements and relay that information to you.  Important information is given at practices and its it the athlete's responsibility to keep up to date.  Athletes should check with their captains first for any questions.  Please keep in touch with the Coach.  Email is best.  I may not be able to return a phone call quickly, but usually can reply to an email.  Our primary form of communication is email and our website ([dutchforkrunners.com](http://dutchforkrunners.com)) Please make sure you subscribe to our email list, follow us on Facebook and Twitter, and sign up for our emergency text alerts.
 
 ---
 

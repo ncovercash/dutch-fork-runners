@@ -28,14 +28,6 @@ window.log = function (category, message, bold) {
       $(".tooltipped").tooltip();
       $(".collapsible").collapsible();
       $(".dropdown-trigger").dropdown();
-      $(".raw-markdown, .raw-inline-markdown").each(function () {
-        renderMarkdownArea(this);
-      });
-      $(".raw-emoji").each(function () {
-        $(this)
-          .html(twemoji.parse($(this).html()))
-          .removeClass("raw-emoji");
-      });
       $(".fixed-action-btn:not(.horizontal)").floatingActionButton();
       $(".fixed-action-btn.horizontal").floatingActionButton({
         direction: "left",
@@ -44,36 +36,6 @@ window.log = function (category, message, bold) {
     }
 
     materializeOnload();
-
-    /* MARKDOWN */
-    $(document).on("input", ".markdown-field", function () {
-      if (window.markdownCurrentlyParsing.hasOwnProperty($(this).attr("id"))) {
-        window.log(
-          ".on input for .markdown-field",
-          $(this).attr("id") + " - clearing existing render timeout"
-        );
-        clearTimeout(window.markdownCurrentlyParsing[$(this).attr("id")]);
-      }
-      window.log(
-        ".on input for .markdown-field",
-        $(this).attr("id") + " - setting render timeout for 1500ms"
-      );
-      const field = this; // strange stuff happens here
-      window.markdownCurrentlyParsing[$(this).attr("id")] = setTimeout(function () {
-        window.log("Markdown field surrogate", $(field).attr("id") + " - rendering");
-        $(".markdown-target[data-field=" + $(field).attr("id") + "]")
-          .removeClass("rendered-markdown")
-          .addClass("raw-markdown")
-          .text($(field).val());
-        renderMarkdownArea($(".markdown-target[data-field=" + $(field).attr("id") + "]"));
-      }, 1500);
-    });
-
-    $(document).on("click", ".markdown-rendered-checkbox", function (e) {
-      e.preventDefault?.();
-      e.stopPropogation?.();
-      return false;
-    });
 
     function escapeText(text) {
       return $("<div></div>").text(text).html();

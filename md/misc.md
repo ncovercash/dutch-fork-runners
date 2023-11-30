@@ -1,4 +1,5 @@
 #### Summer Camp Info (July 2023)
+
 We will have an optional week of day activities July 17-20. More information to come.  Fees will be paid to our Booster Club.
 
 //Summer camp is for the runner than can safely run 45 minutes non-stop. It is from July 19^th^ through July 23^rd^ at Appalachian State, $440 each. Initial, non-refundable, deposit of $150 due by Thursday May 30^th^, with final payment due by July 1^st^. 

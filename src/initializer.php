@@ -25,6 +25,8 @@ if (php_sapi_name() !== 'cli') {
 	ob_start();
 }
 
+require_once __DIR__."/vendor/autoload.php";
+
 register_shutdown_function("\\DutchForkRunners\\Controller::shutdown");
 set_error_handler("\\DutchForkRunners\\Controller::handleError", E_ALL);
 set_exception_handler("\\DutchForkRunners\\Controller::handleException");

@@ -7,8 +7,7 @@ use DutchForkRunners\Controller;
 /**
  * Used to hold data about what scripts and other resources should belong in the <head> element
  */
-class Header
-{
+class Header {
 	const PRODUCTION = 0;
 	const DEVEL = 1;
 	const ALWAYS = 2;
@@ -33,7 +32,6 @@ class Header
 		[self::DEVEL, "https://rawgit.com/fullcalendar/fullcalendar/v3.7.0/dist/gcal.js", 'crossorigin="anonymous"'],
 		[self::PRODUCTION, "https://cdn.rawgit.com/fullcalendar/fullcalendar/v3.7.0/dist/gcal.js", 'crossorigin="anonymous"'],
 
-		[self::ALWAYS, ROOTDIR . "js/markdown_parser.js?v", "defer"],
 		[self::ALWAYS, ROOTDIR . "js/onload.js?y"],
 	];
 
@@ -41,8 +39,7 @@ class Header
 	 * Get the scripts and attributes
 	 * @return string[][]
 	 */
-	public static function getScripts(): array
-	{
+	public static function getScripts(): array {
 		$scripts = [];
 		foreach (self::SCRIPTS as $script) {
 			switch ($script[0]) {
@@ -92,8 +89,7 @@ class Header
 	 * Get the styles
 	 * @return string[]
 	 */
-	public static function getStyles(): array
-	{
+	public static function getStyles(): array {
 		$styles = [];
 		foreach (self::STYLES as $style) {
 			switch ($style[0]) {

@@ -1,0 +1,8 @@
+services:
+  dfr:
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+    container_name: dfr
+    ports:
+      - "8080:8080"

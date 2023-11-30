@@ -4,7 +4,7 @@ define("ROOTDIR", "");
 define("REAL_ROOTDIR", "");
 
 require_once REAL_ROOTDIR . "src/initializer.php";
-use \DutchForkRunners\Images\{Folders, Media};
+use \DutchForkRunners\Markdown;
 use \DutchForkRunners\Page\{UniversalFunctions, Values};
 
 define("PAGE_KEYWORD", "home");
@@ -20,12 +20,12 @@ echo UniversalFunctions::createHeading("Dutch Fork Cross Country");
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <div class="section col l9 s12">
-    <div class="raw-markdown">
-      <?= htmlspecialchars(file_get_contents(REAL_ROOTDIR . "md/home.md")) ?>
-    </div>
+    <?= Markdown::convert(file_get_contents(REAL_ROOTDIR . "md/home.md")) ?>
 
     <?php /*
 <div class="divider"></div>
+
+<p class="flow-text">Follow <a href="https://instagram.com/dutchforkrunners/">dutchforkrunners on Instagram</a>!</p>
 
 <h4>Photos</h4>
 
@@ -35,37 +35,38 @@ $result = json_decode(file_get_contents(REAL_ROOTDIR . "ig.json"), true);
 
 $cards = [];
 
+// TODO: the markdown here needs to be updated (maybe?)
 foreach ($result as $item) {
- $media = new Media(Folders::PICTURES, '', $item["URL"], $item["TYPE"] == "VIDEO", $item["CAPTION"]);
- $cards[] = $media->getCard('', null, true, "https://instagram.com/p/" . $item["CODE"]);
+$media = new Media(Folders::PICTURES, '', $item["URL"], $item["TYPE"] == "VIDEO", $item["CAPTION"]);
+$cards[] = $media->getCard('', null, true, "https://instagram.com/p/" . $item["CODE"]);
 }
 
 $bisected = [[], []];
 $trisected = [[], [], []];
 
 for ($i = 0; $i < count($cards); $i++) {
- $bisected[$i % 2][] = $cards[$i];
- $trisected[$i % 3][] = $cards[$i];
+$bisected[$i % 2][] = $cards[$i];
+$trisected[$i % 3][] = $cards[$i];
 }
 
 if (count($cards) == 0): ?>
- <p class="flow-text">We're updating our feed just for you - please reload in a few seconds.</p>
+<p class="flow-text">We're updating our feed just for you - please reload in a few seconds.</p>
 <?php else: ?>
- <div class="col s12 m6 hide-on-large-only">
-   <?= implode("", $bisected[0]) ?>
- </div>
- <div class="col s12 m6 hide-on-large-only">
-   <?= implode("", $bisected[1]) ?>
- </div>
- <div class="col l4 hide-on-med-and-down">
-   <?= implode("", $trisected[0]) ?>
- </div>
- <div class="col l4 hide-on-med-and-down">
-   <?= implode("", $trisected[1]) ?>
- </div>
- <div class="col l4 hide-on-med-and-down">
-   <?= implode("", $trisected[2]) ?>
- </div>
+<div class="col s12 m6 hide-on-large-only">
+<?= implode("", $bisected[0]) ?>
+</div>
+<div class="col s12 m6 hide-on-large-only">
+<?= implode("", $bisected[1]) ?>
+</div>
+<div class="col l4 hide-on-med-and-down">
+<?= implode("", $trisected[0]) ?>
+</div>
+<div class="col l4 hide-on-med-and-down">
+<?= implode("", $trisected[1]) ?>
+</div>
+<div class="col l4 hide-on-med-and-down">
+<?= implode("", $trisected[2]) ?>
+</div>
 <?php endif; ?>
 */?>
   </div>

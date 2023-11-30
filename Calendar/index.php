@@ -1,4 +1,5 @@
 <?php
+use DutchForkRunners\Markdown;
 
 define("ROOTDIR", "../");
 define("REAL_ROOTDIR", "../");
@@ -23,9 +24,7 @@ echo UniversalFunctions::createHeading("Calendar");
 
 <div class="divider"></div>
 
-<div class="raw-markdown">
-  <?= htmlspecialchars(file_get_contents(REAL_ROOTDIR . "md/calendar.md")) ?>
-</div>
+<?= Markdown::convert(file_get_contents(REAL_ROOTDIR . "md/calendar.md")) ?>
 
 <div class="divider"></div>
 
