@@ -3,7 +3,6 @@
 namespace DutchForkRunners;
 
 use \League\CommonMark\Environment\Environment;
-use \League\CommonMark\Extension\Autolink\AutolinkExtension;
 use \League\CommonMark\Extension\CommonMark\CommonMarkCoreExtension;
 use \League\CommonMark\Extension\CommonMark\Node\Block\ListBlock;
 use \League\CommonMark\Extension\DefaultAttributes\DefaultAttributesExtension;
@@ -31,7 +30,6 @@ class Markdown {
       $environment = new Environment($config);
       $environment->addExtension(new CommonMarkCoreExtension());
       $environment->addExtension(new GithubFlavoredMarkdownExtension());
-      $environment->addExtension(new AutolinkExtension());
       $environment->addExtension(new DefaultAttributesExtension());
       $environment->addExtension(new SmartPunctExtension());
 

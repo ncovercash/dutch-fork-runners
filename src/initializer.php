@@ -15,18 +15,18 @@ if (Controller::isDevelMode()) {
 	ini_set('display_startup_errors', 1);
 	ini_set('scream.enabled', 1);
 } else {
-	error_reporting(0);
-	ini_set('display_errors', 0);
+	error_reporting(E_ERROR | E_WARNING | E_PARSE);
+	ini_set('display_errors', 1);
 	ini_set('display_startup_errors', 0);
 	ini_set('scream.enabled', 0);
 }
 
-if (php_sapi_name() !== 'cli') {
-	ob_start();
-}
+// if (php_sapi_name() !== 'cli') {
+// 	ob_start();
+// }
 
-require_once __DIR__."/vendor/autoload.php";
+require_once __DIR__ . "/vendor/autoload.php";
 
-register_shutdown_function("\\DutchForkRunners\\Controller::shutdown");
-set_error_handler("\\DutchForkRunners\\Controller::handleError", E_ALL);
-set_exception_handler("\\DutchForkRunners\\Controller::handleException");
+// register_shutdown_function("\\DutchForkRunners\\Controller::shutdown");
+// set_error_handler("\\DutchForkRunners\\Controller::handleError", E_ALL);
+// set_exception_handler("\\DutchForkRunners\\Controller::handleException");
