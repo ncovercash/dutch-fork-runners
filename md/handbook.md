@@ -1,4 +1,3 @@
----
 #### Information/Policies for our teams.
 
 **Website:** https://dutchforkrunners.com/

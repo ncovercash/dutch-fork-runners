@@ -4,7 +4,9 @@ We start summer conditioning in May!  First official practice will be the first 
 Last day for new athletes to join will be **the Friday of the first week of school**
 
 All pre-participation online forms (at [PlanetHS](http://planetHS.com/)) must be completed before attending. Please note phsycials must be dated after April 1. This process takes time for clearnce ( sometimes a few days ).  You must receive confirmations from PlanetHS before attending. 
+
 Please note, if you are a new Middle School student, when creating your PlanetHS account, add Dutch Fork High School as your "other" school, and you will then see a Cross County sport option.  
+
 There is a $65 per sport Athletic Participation fee that is added to your school fees.  There are no exceptions to the fee policy. Coaches do not collect athletic fees.  
 
 ---
@@ -12,10 +14,15 @@ There is a $65 per sport Athletic Participation fee that is added to your school
 #### Interested in joining our Cross Country (XC) teams?
 
 All pre-participation online forms (at [PlanetHS](http://planetHS.com/)) must be completed before attending. Please note phsycials must be dated after April 1. This process takes time for clearnce ( sometimes a few days ).  You must receive confirmations from PlanetHS before attending. 
+
 Please note, if you are a new Middle School student, when creating your PlanetHS account, add Dutch Fork High School as your "other" school, and you will then see a Cross County sport option.  
+
 There is a $65 per sport Athletic Participation fee that is added to your school fees.  There are no exceptions to the fee policy. Coaches do not collect athletic fees. 
+
 Both the parent and student will need to create an account to complete and digitally sign the web-forms.  This process takes time for clearance( sometimes a few days).  You must receive confirmations from PlanetHS before attending.  
+
 Summer running is detailed below. See our calendar for summer times.  
+
 During school, practice is every day, 3:55pm-5:45pm @ DFHS. Practice may run longer, but please have rides prearranged for pickup at 5:45. Athletes should ALWAYS bring water with them and be prepared for inclement weather. Please read our [handbook](http://dutchforkrunners.com/Handbook) section to make sure you can meet attendance requirements before committing.
 
 Please [fill out this form](https://goo.gl/forms/BXjBnKhVeLkxSXuG3)  to join or for additional information.

@@ -2,26 +2,27 @@
 
 We will have an optional week of day activities July 17-20. More information to come.  Fees will be paid to our Booster Club.
 
-//Summer camp is for the runner than can safely run 45 minutes non-stop. It is from July 19^th^ through July 23^rd^ at Appalachian State, $440 each. Initial, non-refundable, deposit of $150 due by Thursday May 30^th^, with final payment due by July 1^st^. 
-//[Please print this form to sign and send with payment and for more information.]()
+<!-- Summer camp is for the runner than can safely run 45 minutes non-stop. It is from July 19^th^ through July 23^rd^ at Appalachian State, $440 each. Initial, non-refundable, deposit of $150 due by Thursday May 30^th^, with final payment due by July 1^st^.  -->
+<!-- [Please print this form to sign and send with payment and for more information.]() -->
 
-//If attending camp, all pre-participation online forms (at [Arbiter Athlete](http://arbiterathlete.com/), old Planet HS logins will still work) must be completed by **July 9^th^**.
+<!-- If attending camp, all pre-participation online forms (at [Arbiter Athlete](http://arbiterathlete.com/), old Planet HS logins will still work) must be completed by **July 9^th^**. -->
 
-//Final payment may be mailed to:
+<!-- Final payment may be mailed to: -->
 
-//**Stacie Vandervelde - 1010 Leamington Circle, Irmo SC 29063**
+<!-- **Stacie Vandervelde - 1010 Leamington Circle, Irmo SC 29063** -->
 
 
-//{You will need to print and complete all 3 of these pages]().  Bring them with you when you come to the bus.  You cannot travel with us without the forms complete.  They do NOT need to notarized, but I will have a notary present that can do that before we board the bus.  [Here](https://drive.google.com/file/d/0B8lfojZpa5WqdWI1NV9GQnRyWlk/view?usp=sharing) is a general information sheet for you to look over.
+<!-- {You will need to print and complete all 3 of these pages]().  Bring them with you when you come to the bus.  You cannot travel with us without the forms complete.  They do NOT need to notarized, but I will have a notary present that can do that before we board the bus.  [Here](https://drive.google.com/file/d/0B8lfojZpa5WqdWI1NV9GQnRyWlk/view?usp=sharing) is a general information sheet for you to look over. -->
 
 ---
 #####
 [Summer Running](https://drive.google.com/file/d/1s6GwYKyyCxeuO7if0L41wnJOGUjDd1xZ/view?usp=sharing) and [running stretches and dynamics](https://drive.google.com/file/d/1HOht-nlGjCEUkaSVdRUSsgCuGbs6BAfs/view?usp=sharing)
 ---
-#### 
+####
 
 [3-day strength workout plan for summer](http://dutchforkrunners.com/Misc/3_Day_Strength_Workout.pdf)
 
+<!--
 //---
 
 
@@ -34,8 +35,8 @@ We will have an optional week of day activities July 17-20. More information to 
 //[Click here for information, registration, and a map.]
 //(https://www.active.com/columbia-sc/running/distance-running-races/xterra-harbison-half-marathon-5k-2018?int=72-3-A1)
 //We could also use people to help that are not running the 5K, so please consider helping out. Any questions about the Harbison Forest run
-//ask Coach Saxby or one of the captains.  Athletes planning on running the 5K should plan on being at the race around 6:15 for proper warm up.
+//ask Coach Saxby or one of the captains.  Athletes planning on running the 5K should plan on being at the race around 6:15 for proper warm up. -->
 
 ---
 
-#### 
+####
