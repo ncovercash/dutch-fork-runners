@@ -6,4 +6,3 @@
 * [Car Wash – Oct 6  Sign up for specific spots](https://www.signupgenius.com/go/9040d4fadaf2fab9-xccarwash)
 
 ---
-
