@@ -1,4 +1,4 @@
-#### Volunteer opportunities:
+#### Volunteer opportunities: 
 
 * [Saturday Snacks Sign up for date(s) to bring](https://www.SignUpGenius.com/go/9040D4FADAF2FAB9-saturday)
 * [Mike Moore – Sept 15 Sign up for specific spots](https://www.SignUpGenius.com/go/9040D4FADAF2FAB9-mike1)
