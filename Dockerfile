@@ -1,4 +1,3 @@
-
 FROM composer AS composer
 
   WORKDIR /
