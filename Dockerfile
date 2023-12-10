@@ -6,7 +6,7 @@ FROM composer AS composer
 
   RUN composer install --optimize-autoloader --no-interaction --no-progress
 
-FROM trafex/php-nginx:latest
+FROM ghcr.io/ncovercash/docker-php-nginx:v1.0.2
 
   COPY --from=composer /vendor /var/www/html/src/vendor
 
@@ -18,6 +18,3 @@ FROM trafex/php-nginx:latest
   COPY . /var/www/html
 
   USER nobody
-
-  # faster healthcheck?
-  HEALTHCHECK --timeout=1s CMD curl --silent --fail http://127.0.0.1:8080/fpm-ping
