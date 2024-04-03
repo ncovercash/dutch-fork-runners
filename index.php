@@ -43,20 +43,22 @@ echo UniversalFunctions::createHeading("Dutch Fork Cross Country");
   if (count($cards) == 0): ?>
     <p class="flow-text">We're updating our feed just for you - please reload in a few seconds.</p>
   <?php else: ?>
-    <div class="col s12 m6 hide-on-large-only">
-      <?= implode("", $bisected[0]) ?>
-    </div>
-    <div class="col s12 m6 hide-on-large-only">
-      <?= implode("", $bisected[1]) ?>
-    </div>
-    <div class="col l4 hide-on-med-and-down">
-      <?= implode("", $trisected[0]) ?>
-    </div>
-    <div class="col l4 hide-on-med-and-down">
-      <?= implode("", $trisected[1]) ?>
-    </div>
-    <div class="col l4 hide-on-med-and-down">
-      <?= implode("", $trisected[2]) ?>
+    <div class="row">
+      <div class="col s12 m6 hide-on-large-only">
+        <?= implode("", $bisected[0]) ?>
+      </div>
+      <div class="col s12 m6 hide-on-large-only">
+        <?= implode("", $bisected[1]) ?>
+      </div>
+      <div class="col l4 hide-on-med-and-down">
+        <?= implode("", $trisected[0]) ?>
+      </div>
+      <div class="col l4 hide-on-med-and-down">
+        <?= implode("", $trisected[1]) ?>
+      </div>
+      <div class="col l4 hide-on-med-and-down">
+        <?= implode("", $trisected[2]) ?>
+      </div>
     </div>
   <?php endif; ?>
 </div>
