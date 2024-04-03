@@ -173,7 +173,8 @@ class Media {
     } else {
       $path = REAL_ROOTDIR . $this->getFolder() . "/" . $this->getFileToken() . $this->getPath();
     }
-    // prevent warnings and shit
+
+    // prevent warnings
     if (file_exists($path)) {
       return $path;
     } else {

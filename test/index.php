@@ -1,7 +1,7 @@
 <?php
 
-define("ROOTDIR", "");
-define("REAL_ROOTDIR", "");
+define("ROOTDIR", "../");
+define("REAL_ROOTDIR", "../");
 
 require_once REAL_ROOTDIR . "src/initializer.php";
 use \DutchForkRunners\Markdown;

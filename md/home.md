@@ -4,29 +4,32 @@
 
 #### Interested in joining our team?
 
-We start 2023-24 conditioning Tuesday, May 9, and continue all summer until August 10 --- see our [Calendar](/Calendar) and [Join](/Join) tabs for more info.
+We start 2023-24 conditioning Tuesday, May 9, and continue all summer until August 10 --- see our
+[Calendar](/Calendar) and [Join](/Join) tabs for more info.
 
 ---
 
 #### Summer Camp Info (July 2023)
 
-We will have an optional week of day activities July 17-20. More information to come via our [calendar](/Calendar) and Remind system.  Camp fee will be paid directly to our Booster Club
+We will have an optional week of day activities July 17-20. More information to come via our
+[calendar](/Calendar) and Remind system. Camp fee will be paid directly to our Booster Club
 
 ---
-
-###### [Follow dutchforkrunners on Instagram](https://instagram.com/dutchforkrunners/)
-
-
----
-
 
 #### Volunteer opportunities - info coming soon:
+
 <!--
 *Mike Moore Lake Murray Invitational
 // [Mike Moore Lake Murray Invitational - Sign up for specific spots-](https://www.signupgenius.com/go/9040D4FADAF2FAB9-mike3)
 -->
 
-* Snacks for race days
+- Snacks for race days
 <!--
 //[Saturday Snacks Sign up for date(s) to bring -]//(https://www.signupgenius.com/go/9040D4FADAF2FAB9-meet2)
 -->
+
+---
+
+#### Photos
+
+Follow us [on Instagram](https://instagram.com/dutchforkrunners/)!

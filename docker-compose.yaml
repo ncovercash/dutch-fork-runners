@@ -6,3 +6,5 @@ services:
     container_name: dfr
     ports:
       - "8080:8080"
+    environment:
+      - INSTAGRAM_API_KEY=your_key
