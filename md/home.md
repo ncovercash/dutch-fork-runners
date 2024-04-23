@@ -4,14 +4,14 @@
 
 #### Interested in joining our team?
 
-We start 2023-24 conditioning Tuesday, May 9, and continue all summer until August 10 --- see our
-[Calendar](/Calendar) and [Join](/Join) tabs for more info.
+We start 2024-25 conditioning Tuesday, May 7, and continue all summer until August --- see our
+[Calendar](/Calendar) and [Join](/Join) tabs for more info.  All info on planeths must be approved with physical dated April 1, 2024 or later before attending conditioning.  
 
 ---
 
-#### Summer Camp Info (July 2023)
+#### Summer Camp Info (July 2024)
 
-We will have an optional week of day activities July 17-20. More information to come via our
+We will have an optional week of day activities July 14-18. More information to come via our
 [calendar](/Calendar) and Remind system. Camp fee will be paid directly to our Booster Club
 
 ---
