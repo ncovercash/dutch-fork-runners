@@ -11,7 +11,7 @@ We start 2024-25 conditioning Tuesday, May 7, and continue all summer until Augu
 
 #### Summer Camp Info (July 14-18, 2024)
 
-We will have an optional week of day activities July 14-18. More information, and Registration form.  Also available via our
+We will have an optional week of day activities July 14-18. [More information and payment info](https://docs.google.com/document/d/1uZdTXBiKFEN45F_buFTTU-ZYR_AZMsynRUFfl4cHqj4/edit?usp=sharing), and [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScSIGBQZrDUVyED7YSrAnN3lmkrGDgkrBlIVvvpnYAJsmwwhQ/viewform?usp=sf_link).  Also available via our
 [calendar](/Calendar) and Remind system. Camp fee will be paid directly to our Booster Club
 
 ---
