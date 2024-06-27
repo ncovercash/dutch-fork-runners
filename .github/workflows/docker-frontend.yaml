@@ -41,17 +41,10 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
 
-      - name: Connect to intranet
-        uses: tailscale/github-action@v2
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:gh-actions
-
-      - name: Deploy
-        run: |
-              ssh -o StrictHostKeyChecking=no ${{ secrets.DEPLOY_SSH_USERNAME }}@${{ secrets.DEPLOY_SSH_HOST }} '
-                cd /docker
-                docker compose run watchtower --run-once --no-startup-message $(docker inspect -f '{{.Name}}' $(docker compose ps -q dutch-fork-runners) | cut -c2-)
-                docker compose up --wait dutch-fork-runners
-                '
+  deploy:
+    needs: [build-and-push-image]
+    if: ${{ github.ref_name == github.event.repository.default_branch }}
+    uses: foxy-development/configs/.github/workflows/deploy.yaml@main
+    secrets: inherit
+    with:
+      service-name: dutch-fork-runners
