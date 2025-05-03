@@ -11,7 +11,7 @@ We start 2025 conditioning Tuesday, May 13, and continue all summer until August
 
 #### Summer Camp Info (July 13-17, 2025)
 
-We will have an optional week of day activities July 13-17. [More information and payment info]((https://docs.google.com/document/d/1sjbaaRacygcU_uFeADghLCRi85IVpIc-liA1aq8CqoE/edit?usp=sharing)), and [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScSIGBQZrDUVyED7YSrAnN3lmkrGDgkrBlIVvvpnYAJsmwwhQ/viewform?usp=sf_link).  Also available via our
+We will have an optional week of day activities July 13-17. [More information and payment info](https://drive.google.com/file/d/1BePxdNFRaaZJYht6AIHPokuCcMcmUMf7/view?usp=share_link), and [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScSIGBQZrDUVyED7YSrAnN3lmkrGDgkrBlIVvvpnYAJsmwwhQ/viewform?usp=sf_link).  Also available via our
 [calendar](/Calendar) and Remind system. Camp fee will be paid directly to our Booster Club
 
 ---
