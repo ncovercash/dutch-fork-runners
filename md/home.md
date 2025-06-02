@@ -29,7 +29,7 @@ We will have an optional week of day activities July 13-17. [More information an
 //[Saturday Snacks Sign up for date(s) to bring -]//(https://www.signupgenius.com/go/9040D4FADAF2FAB9-meet2)
 -->
 
----
+
 
 
 #### Photos
