@@ -16,7 +16,7 @@ We will have an optional week of day activities July 13-17. [More information an
 
 ---
 
-#### Volunteer opportunities - info coming soon:
+<!--#### Volunteer opportunities - info coming soon:
 
 <!--
 *Mike Moore Lake Murray Invitational
@@ -29,6 +29,7 @@ We will have an optional week of day activities July 13-17. [More information an
 -->
 
 ---
+-->
 
 #### Photos
 
