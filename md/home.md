@@ -32,7 +32,9 @@ We will have an optional week of day activities with more information to come.  
 //[Saturday Snacks Sign up for date(s) to bring -]//(https://www.signupgenius.com/go/9040D4FADAF2FAB9-meet2)
 -->
 
+---
 
+#### Text "@dfrunners" to 81010 to join our Remind SMS Group to stay in formed.  
 
 
 #### Photos
