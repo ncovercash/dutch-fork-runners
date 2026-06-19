@@ -11,7 +11,7 @@ We start 2026 conditioning Tuesday, May 26, 7:30 am, and continue all summer unt
 
 #### Summer Camp Info (July 19-23, 2026) 
 
-We will have an optional week of day activities with more information to come.  Will be posted in our calendar and notices through Remind. 
+We will have an optional week of day activities with more information to come. [Click here for info.](https://docs.google.com/document/d/18cm7LK5zCqDJVZNoAuxk8leyXLYZYK985LFbBbFZTAs/edit?usp=drive_link) 
 
 <!--####
 [More information and payment info](https://drive.google.com/file/d/1F3B4K5DuOAnc7qunUQ4NRUMmbqcOPm57/view?usp=sharing), and [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfH8LCNx4KDUFse1aQeqaIM35RRW_LGtC-8Lc5_PHE3HXtykQ/viewform?usp=header).  Also available via our
