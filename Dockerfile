@@ -6,7 +6,7 @@ FROM composer AS composer
 
   RUN composer install --optimize-autoloader --no-interaction --no-progress
 
-FROM ghcr.io/ncovercash/docker-php-nginx:v1.2.2
+FROM ghcr.io/ncovercash/docker-php-nginx:v1.2.3
 
   COPY --from=composer /vendor /var/www/html/src/vendor
 
